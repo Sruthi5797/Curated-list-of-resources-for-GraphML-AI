@@ -15,7 +15,6 @@ Machine learning(ML) a sub-group of Artifical Intelligence(AI) is widely used in
 - Link prediction using VGAE: [Variational Graph Auto-Encoders](https://arxiv.org/abs/1611.07308.pdf)
 - Link prediction and Entity Classification using R-GCN [Modeling Relational Data with Graph Convolutional Networks](https://arxiv.org/pdf/1703.06103.pdf)
 - Link prediction using node2vec [node2vec: Scalable Feature Learning for Networks](https://arxiv.org/pdf/1607.00653.pdf)
-
 - Drug discovery [HyperFoods: Machine intelligent mapping of cancer-beating molecules in foods](https://www.nature.com/articles/s41598-019-45349-y)
 - Graph LSTM [ Semantic Object Parsing with Graph LSTM](https://arxiv.org/pdf/1603.07063.pdf)
 - Graph ST-GCN [Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition](https://github.com/yysijie/st-gcn)
@@ -31,14 +30,14 @@ Machine learning(ML) a sub-group of Artifical Intelligence(AI) is widely used in
 * Also available as a beta version in Neo4J for node embeddings: [Neo4jGraphSAGE](https://neo4j.com/docs/graph-data-science/current/algorithms/graph-sage/)
 - A simplified version of tensorflow for performing computation on graphs in a more transparent way [GraphAttack](https://github.com/jgolebiowski/graphAttack)
 - An AI-toolkit for graph analysis, ML and NLP [Grasp](https://github.com/textgain/grasp)
-- 
 ### Graph packages
 - Python package for creating, manipulating, and studying complex networks' structure, dynamics, and functions: [NetworkX](https://networkx.github.io/)
 - Collection of network analysis with a focus on easy usabilitz, efficiency and portability: [igraph](https://igraph.org/)
 - Graph manipulation,speed of processing, supports visualization and based on Boost graph library: [graph-tool](https://graph-tool.skewed.de/)
 - Analysis and manipulation of networks by Stanford: [SNAP](https://snap.stanford.edu/snap/)
 - Graph analysis using Julia: [LightGraphs](https://juliagraphs.org/LightGraphs.jl/latest/)
-- A graph database for storing and retreiving data used in computational toxicology [ComptoxAI](https://comptox.ai/)[^1] [^1]:[support for ML coming soon]
+- A graph database for storing and retreiving data used in computational toxicology [ComptoxAI](https://comptox.ai/)[^1] 
+[^1]:[support for ML coming soon]
 - 
 
 ## Books
@@ -48,7 +47,7 @@ Machine learning(ML) a sub-group of Artifical Intelligence(AI) is widely used in
 ## Others
 
 ### Workshops/Tutorials/Courses
-- A Workshop on Graph Powered ML with presentation and tutorials: [Graph-Powered-ML]https://github.com/joerg84/Graph_Powered_ML_Workshop
+- A Workshop on Graph Powered ML with presentation and tutorials: [Graph-Powered-ML](https://github.com/joerg84/Graph_Powered_ML_Workshop)
 - Practical courses: [Learning-Networks-with-ML](https://github.com/Networks-Learning/mlss-2016)
 ### Data generation
 - Library: [Synthetic-Graph-Data-Generation-for-ML](https://github.com/Octavian-ai/synthetic-graph-data)
