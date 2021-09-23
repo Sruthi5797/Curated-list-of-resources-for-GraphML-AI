@@ -15,15 +15,18 @@ Machine learning(ML) a sub-group of Artifical Intelligence(AI) is widely used in
 - Link prediction using VGAE: [Variational Graph Auto-Encoders](https://arxiv.org/abs/1611.07308.pdf)
 - Link prediction and Entity Classification using R-GCN [Modeling Relational Data with Graph Convolutional Networks](https://arxiv.org/pdf/1703.06103.pdf)
 - Link prediction using node2vec [node2vec: Scalable Feature Learning for Networks](https://arxiv.org/pdf/1607.00653.pdf)
+- Link prediction using DECAGON [Modeling polypharmacy side effects with graph convolutional networks](https://arxiv.org/pdf/1802.00543.pdf)
 - Drug discovery [HyperFoods: Machine intelligent mapping of cancer-beating molecules in foods](https://www.nature.com/articles/s41598-019-45349-y)
 - Graph LSTM [ Semantic Object Parsing with Graph LSTM](https://arxiv.org/pdf/1603.07063.pdf)
 - Graph ST-GCN [Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition](https://github.com/yysijie/st-gcn)
 - MPNN - can be used for other novel approaches [Neural Message Passing for Quantum Chemistry](https://arxiv.org/abs/1704.01212)
 - Learning CNN [Learning Convolutional Neural Networks for Graphs](https://arxiv.org/pdf/1605.05273.pdf)
-
-
+- GG-NN [GATED GRAPH SEQUENCE NEURAL NETWORKS](https://arxiv.org/pdf/1511.05493.pdf)
+- Fake detection [Fake News Detection on Social Media using Geometric Deep Learning](https://arxiv.org/abs/1902.06673)
+- Molecular finger printing [Convolutional Networks on Graphs for Learning Molecular Fingerprints](https://arxiv.org/abs/1509.09292)
 ## Software libraries
 - Integrating ML with knowledge graphs: [Grakn KGLIB](https://github.com/vaticle/kglib)
+- An ultimate library for GNN: [PvG](https://www.pyg.org/)
 - Machine learning on graphs and networks: [StellarGraph](https://github.com/stellargraph/stellargraph)
 - A library to perform deep learning on graphs. Contains a wide range of tutorial to start from:[Deep-Graph-Library](https://www.dgl.ai/)
 - A framework for industive representation learning for large graphs: [GraphSAGE](http://snap.stanford.edu/graphsage/)
@@ -37,9 +40,7 @@ Machine learning(ML) a sub-group of Artifical Intelligence(AI) is widely used in
 - Graph manipulation,speed of processing, supports visualization and based on Boost graph library: [graph-tool](https://graph-tool.skewed.de/)
 - Analysis and manipulation of networks by Stanford: [SNAP](https://snap.stanford.edu/snap/)
 - Graph analysis using Julia: [LightGraphs](https://juliagraphs.org/LightGraphs.jl/latest/)
-- A graph database for storing and retreiving data used in computational toxicology [ComptoxAI](https://comptox.ai/)[^1] 
-[^1]:[support for ML coming soon]
-- 
+- A graph database for storing and retreiving data used in computational toxicology [ComptoxAI](https://comptox.ai/) <sup>[1](#myfootnote1)</sup>
 
 ## Books
 - Designing and Building Enterprise Knowledge Graphs (Synthesis Lectures on Data, Semantics, and Knowledge)
@@ -55,6 +56,7 @@ Machine learning(ML) a sub-group of Artifical Intelligence(AI) is widely used in
 ### Workshops/Tutorials/Courses
 - A Workshop on Graph Powered ML with presentation and tutorials: [Graph-Powered-ML](https://github.com/joerg84/Graph_Powered_ML_Workshop)
 - Practical courses: [Learning-Networks-with-ML](https://github.com/Networks-Learning/mlss-2016)
+- A Workshop on graph learning [Snap Workshop](https://snap.stanford.edu/graphlearning-workshop/index.html)
 ### Data generation
 - Library: [Synthetic-Graph-Data-Generation-for-ML](https://github.com/Octavian-ai/synthetic-graph-data)
 ### Graph datasets
@@ -66,3 +68,7 @@ Machine learning(ML) a sub-group of Artifical Intelligence(AI) is widely used in
 
 ### Projects
 - Fraud Detection in BankSim dataset containing bank transactions [Fraud-Detection](https://github.com/aravind-sundaresan/Graph-ML-Fraud-Detection)
+
+
+
+<a name="myfootnote1">1</a>: support for ML coming soon
