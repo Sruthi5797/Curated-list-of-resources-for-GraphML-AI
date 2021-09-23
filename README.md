@@ -30,6 +30,7 @@ Machine learning(ML) a sub-group of Artifical Intelligence(AI) is widely used in
 * Also available as a beta version in Neo4J for node embeddings: [Neo4jGraphSAGE](https://neo4j.com/docs/graph-data-science/current/algorithms/graph-sage/)
 - A simplified version of tensorflow for performing computation on graphs in a more transparent way [GraphAttack](https://github.com/jgolebiowski/graphAttack)
 - An AI-toolkit for graph analysis, ML and NLP [Grasp](https://github.com/textgain/grasp)
+
 ### Graph packages
 - Python package for creating, manipulating, and studying complex networks' structure, dynamics, and functions: [NetworkX](https://networkx.github.io/)
 - Collection of network analysis with a focus on easy usabilitz, efficiency and portability: [igraph](https://igraph.org/)
@@ -41,11 +42,16 @@ Machine learning(ML) a sub-group of Artifical Intelligence(AI) is widely used in
 - 
 
 ## Books
-
+- Designing and Building Enterprise Knowledge Graphs (Synthesis Lectures on Data, Semantics, and Knowledge)
+- Connecting the Dots:Harness the Power of Graphs & ML
 
 
 ## Others
-
+- List of GNNs available: [Awesome efficient GNN](https://github.com/chaitjo/awesome-efficient-gnn)
+- A very good blog to understand GraphDL [GDL](https://ericmjl.github.io/essays-on-data-science/machine-learning/graph-nets/)
+- List of resources for Graph bases reasoning [Graph Reasoning](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning)
+- List of Graph deep learning based papers [ICML 2021](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/README.md)
+- Code examples of GraphNLP tutorials [graph-for-NLP](https://github.com/graph4ai/graph4nlp_demo)
 ### Workshops/Tutorials/Courses
 - A Workshop on Graph Powered ML with presentation and tutorials: [Graph-Powered-ML](https://github.com/joerg84/Graph_Powered_ML_Workshop)
 - Practical courses: [Learning-Networks-with-ML](https://github.com/Networks-Learning/mlss-2016)
