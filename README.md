@@ -37,7 +37,7 @@ Machine learning(ML) a sub-group of Artifical Intelligence(AI) is widely used in
 - Analysis and manipulation of networks by Stanford: [SNAP](https://snap.stanford.edu/snap/)
 - Graph analysis using Julia: [LightGraphs](https://juliagraphs.org/LightGraphs.jl/latest/)
 - A graph database for storing and retreiving data used in computational toxicology [ComptoxAI](https://comptox.ai/)[^1] 
-[^1]:[support for ML coming soon]
+[^1]: support for ML coming soon
 - 
 
 ## Books
