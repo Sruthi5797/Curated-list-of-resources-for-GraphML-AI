@@ -7,22 +7,39 @@ Machine learning(ML) a sub-group of Artifical Intelligence(AI) is widely used in
 - Survey: [A Practical Guide to Graph Neural Networks (2020)](https://arxiv.org/pdf/2010.05234.pdf)
 - Fraud detection: [A systematic literature review of graph-based anomaly detection approaches (2020)](https://www.sciencedirect.com/science/article/pii/S0167923620300580)
 - Knowledge graphs: [A Comprehensive Introduction to Knowledge Graphs (2021)](https://arxiv.org/pdf/2003.02320.pdf)
-- 
+- K-associated graphs: [A nonparametric classification method based on K-associated graphs](https://sites.icmc.usp.br/alneu/papers/infoSciences2011.pdf)
+- Context Aware Security monitoring: [Machine learning on knowledge graphs for context-aware security monitoring](https://arxiv.org/pdf/2105.08741.pdf)
+- GCN for different datasets: [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907.pdf)
+- Recommandation system: [Graph Convolutional Neural Networks for Web-Scale Recommender Systems](https://arxiv.org/abs/1806.01973.pdf)
+- GATs for different datasets: [Graph Attention Networks](https://arxiv.org/abs/1710.10903.pdf)
+- Link prediction using VGAE: [Variational Graph Auto-Encoders](https://arxiv.org/abs/1611.07308.pdf)
+- Link prediction and Entity Classification using R-GCN [Modeling Relational Data with Graph Convolutional Networks](https://arxiv.org/pdf/1703.06103.pdf)
+- Link prediction using node2vec [node2vec: Scalable Feature Learning for Networks](https://arxiv.org/pdf/1607.00653.pdf)
+
+- Drug discovery [HyperFoods: Machine intelligent mapping of cancer-beating molecules in foods](https://www.nature.com/articles/s41598-019-45349-y)
+- Graph LSTM [ Semantic Object Parsing with Graph LSTM](https://arxiv.org/pdf/1603.07063.pdf)
+- Graph ST-GCN [Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition](https://github.com/yysijie/st-gcn)
+- MPNN - can be used for other novel approaches [Neural Message Passing for Quantum Chemistry](https://arxiv.org/abs/1704.01212)
+- Learning CNN [Learning Convolutional Neural Networks for Graphs](https://arxiv.org/pdf/1605.05273.pdf)
+
 
 ## Software libraries
 - Integrating ML with knowledge graphs: [Grakn KGLIB](https://github.com/vaticle/kglib)
 - Machine learning on graphs and networks: [StellarGraph](https://github.com/stellargraph/stellargraph)
-- A library to perform deep learning on graphs. Contains a wide range of tutorial to start from:[Deep-Graph-Library] (https://www.dgl.ai/)
+- A library to perform deep learning on graphs. Contains a wide range of tutorial to start from:[Deep-Graph-Library](https://www.dgl.ai/)
 - A framework for industive representation learning for large graphs: [GraphSAGE](http://snap.stanford.edu/graphsage/)
-* Also available as a beta version in Neo4J for node embeddings (https://neo4j.com/docs/graph-data-science/current/algorithms/graph-sage/)
-- A simplified version of tensorflow for performing computation on graphs in a more transparent way (https://github.com/jgolebiowski/graphAttack)
+* Also available as a beta version in Neo4J for node embeddings: [Neo4jGraphSAGE](https://neo4j.com/docs/graph-data-science/current/algorithms/graph-sage/)
+- A simplified version of tensorflow for performing computation on graphs in a more transparent way [GraphAttack](https://github.com/jgolebiowski/graphAttack)
+- An AI-toolkit for graph analysis, ML and NLP [Grasp](https://github.com/textgain/grasp)
 - 
 ### Graph packages
 - Python package for creating, manipulating, and studying complex networks' structure, dynamics, and functions: [NetworkX](https://networkx.github.io/)
 - Collection of network analysis with a focus on easy usabilitz, efficiency and portability: [igraph](https://igraph.org/)
 - Graph manipulation,speed of processing, supports visualization and based on Boost graph library: [graph-tool](https://graph-tool.skewed.de/)
 - Analysis and manipulation of networks by Stanford: [SNAP](https://snap.stanford.edu/snap/)
-- Graph analysis using Julia: [lightgraphs](https://juliagraphs.org/LightGraphs.jl/latest/)
+- Graph analysis using Julia: [LightGraphs](https://juliagraphs.org/LightGraphs.jl/latest/)
+- A graph database for storing and retreiving data used in computational toxicology [ComptoxAI](https://comptox.ai/)[^1] [^1]:[support for ML coming soon]
+- 
 
 ## Books
 
@@ -30,7 +47,17 @@ Machine learning(ML) a sub-group of Artifical Intelligence(AI) is widely used in
 
 ## Others
 
-### Workshops
-- Graph Powered ML (Workshop): []
+### Workshops/Tutorials/Courses
+- A Workshop on Graph Powered ML with presentation and tutorials: [Graph-Powered-ML]https://github.com/joerg84/Graph_Powered_ML_Workshop
+- Practical courses: [Learning-Networks-with-ML](https://github.com/Networks-Learning/mlss-2016)
 ### Data generation
-- Library: [Synthetic-Graph-Data-Generation-for-ML] https://github.com/Octavian-ai/synthetic-graph-data
+- Library: [Synthetic-Graph-Data-Generation-for-ML](https://github.com/Octavian-ai/synthetic-graph-data)
+### Graph datasets
+- A list of open-source graph datasets [Graph-datasets](https://github.com/AntonsRuberts/graph_ml)
+- A list of datasets in GraphML[GraphML-datasets](https://github.com/yuehhua/GraphMLDatasets.jl)
+- Graph reasoning dataset [CLEVR-graph](https://github.com/davidsketchdeck/clevr-graph)
+- HPC analytics project data uses Neo4j and Python to run various ML algorithms [Property database](https://github.com/happystep/HPC_Analytics)
+- 
+
+### Projects
+- Fraud Detection in BankSim dataset containing bank transactions [Fraud-Detection](https://github.com/aravind-sundaresan/Graph-ML-Fraud-Detection)
