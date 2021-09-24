@@ -5,6 +5,7 @@ Machine learning(ML) a sub-group of Artifical Intelligence(AI) is widely used in
 ## Research articles
 - Survey: [A Comprehensive Survey on Graph Neural Networks (2019)](https://arxiv.org/pdf/1901.00596.pdf)
 - Survey: [A Practical Guide to Graph Neural Networks (2020)](https://arxiv.org/pdf/2010.05234.pdf)
+- Survey: [Graph Neural Networks for Natural Language Processing: A Survey](https://arxiv.org/abs/2106.06090.pdf)
 - Fraud detection: [A systematic literature review of graph-based anomaly detection approaches (2020)](https://www.sciencedirect.com/science/article/pii/S0167923620300580)
 - Knowledge graphs: [A Comprehensive Introduction to Knowledge Graphs (2021)](https://arxiv.org/pdf/2003.02320.pdf)
 - K-associated graphs: [A nonparametric classification method based on K-associated graphs](https://sites.icmc.usp.br/alneu/papers/infoSciences2011.pdf)
@@ -24,6 +25,23 @@ Machine learning(ML) a sub-group of Artifical Intelligence(AI) is widely used in
 - GG-NN [GATED GRAPH SEQUENCE NEURAL NETWORKS](https://arxiv.org/pdf/1511.05493.pdf)
 - Fake detection [Fake News Detection on Social Media using Geometric Deep Learning](https://arxiv.org/abs/1902.06673)
 - Molecular finger printing [Convolutional Networks on Graphs for Learning Molecular Fingerprints](https://arxiv.org/abs/1509.09292)
+- Custom network [DEEP GRAPH INFOMAX](https://arxiv.org/abs/1809.10341)
+- Representation learning [Representation Learning on Graphs: Methods and Applications](https://arxiv.org/pdf/1709.05584.pdf)
+- Dynamic graphs [Software Engineering Event Modeling using Relative Time in Temporal Knowledge Graphs](https://arxiv.org/pdf/2007.01231.pdf)
+- Dynamic graphs [Temporal Graph Networks for Deep Learning on Dynamic Graphs](https://arxiv.org/pdf/2006.10637.pdf)
+- Dynamic graphs [Inductive Representation Learning on Temporal Graphs](https://arxiv.org/pdf/2002.07962.pdf)
+- GDL review on sparse structures [Geometric deep learning: going beyond Euclidean data](https://arxiv.org/abs/1611.08097)
+- Semi-supervised [Relating Graph Neural Networks to Structural Causal Models](https://arxiv.org/pdf/2109.04173.pdf)
+- Life-science application [DGL-LIFESCI: AN OPEN-SOURCE TOOLKIT FOR DEEP LEARNING ON GRAPHS IN LIFE SCIENCE](https://arxiv.org/pdf/2106.14232.pdf)
+- Graph explainability [Reimagining GNN Explanations with ideas from Tabular Data](https://arxiv.org/pdf/2106.12665.pdf)
+- NLS approach [Learning to Generate Scene Graph from Natural Language Supervision](https://arxiv.org/pdf/2109.02227.pdf)
+- MGNN for text summarization [Multiplex Graph Neural Network for Extractive Text Summarization](https://arxiv.org/pdf/2108.12870.pdf)
+- TabGNN for prediction [TabGNN: Multiplex Graph Neural Network for Tabular Data Prediction](https://arxiv.org/pdf/2108.09127.pdf)
+- AdaGNN for 4 datasets [AdaGNN: A multi-modal latent representation meta-learner for GNNs based on AdaBoosting](https://arxiv.org/pdf/2108.06452.pdf)
+- X-GGM for VQA tasks [X-GGM: Graph Generative Modeling for Out-of-Distribution Generalization in Visual Question Answering](https://arxiv.org/abs/2107.11576)
+- Graph based forecasting [A Study of Joint Graph Inference and Forecasting](https://arxiv.org/abs/2109.04979)
+- Data Preprocessing [Local Augmentation for Graph Neural Networks](https://arxiv.org/abs/2109.03856)
+
 ## Software libraries
 - Integrating ML with knowledge graphs: [Grakn KGLIB](https://github.com/vaticle/kglib)
 - An ultimate library for GNN: [PvG](https://www.pyg.org/)
@@ -43,6 +61,7 @@ Machine learning(ML) a sub-group of Artifical Intelligence(AI) is widely used in
 - A graph database for storing and retreiving data used in computational toxicology [ComptoxAI](https://comptox.ai/) <sup>[1](#myfootnote1)</sup>
 
 ## Books
+- Graph Machine Learning: Take Graph Data to the Next Level by Applying Machine Learning Techniques and Algorithms
 - Designing and Building Enterprise Knowledge Graphs (Synthesis Lectures on Data, Semantics, and Knowledge)
 - Connecting the Dots:Harness the Power of Graphs & ML
 
@@ -53,18 +72,22 @@ Machine learning(ML) a sub-group of Artifical Intelligence(AI) is widely used in
 - List of resources for Graph bases reasoning [Graph Reasoning](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning)
 - List of Graph deep learning based papers [ICML 2021](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/README.md)
 - Code examples of GraphNLP tutorials [graph-for-NLP](https://github.com/graph4ai/graph4nlp_demo)
-### Workshops/Tutorials/Courses
+- A library for open graph benchmarking [OGB](https://ogb.stanford.edu/)
+- A GNN challende [AI/ML for GNN](https://arxiv.org/pdf/2107.12433.pdf)
+
+## Workshops/Tutorials/Courses
 - A Workshop on Graph Powered ML with presentation and tutorials: [Graph-Powered-ML](https://github.com/joerg84/Graph_Powered_ML_Workshop)
 - Practical courses: [Learning-Networks-with-ML](https://github.com/Networks-Learning/mlss-2016)
 - A Workshop on graph learning [Snap Workshop](https://snap.stanford.edu/graphlearning-workshop/index.html)
-### Data generation
+
+## Data generation
 - Library: [Synthetic-Graph-Data-Generation-for-ML](https://github.com/Octavian-ai/synthetic-graph-data)
-### Graph datasets
+
+## Graph datasets
 - A list of open-source graph datasets [Graph-datasets](https://github.com/AntonsRuberts/graph_ml)
 - A list of datasets in GraphML[GraphML-datasets](https://github.com/yuehhua/GraphMLDatasets.jl)
 - Graph reasoning dataset [CLEVR-graph](https://github.com/davidsketchdeck/clevr-graph)
 - HPC analytics project data uses Neo4j and Python to run various ML algorithms [Property database](https://github.com/happystep/HPC_Analytics)
-- 
 
 ### Projects
 - Fraud Detection in BankSim dataset containing bank transactions [Fraud-Detection](https://github.com/aravind-sundaresan/Graph-ML-Fraud-Detection)
