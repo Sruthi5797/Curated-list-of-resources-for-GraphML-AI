@@ -78,6 +78,7 @@ In this list of we propose several resources which are helpful for ML/AI on grap
 - Graph Machine Learning: Take Graph Data to the Next Level by Applying Machine Learning Techniques and Algorithms
 - Designing and Building Enterprise Knowledge Graphs (Synthesis Lectures on Data, Semantics, and Knowledge)
 - Connecting the Dots:Harness the Power of Graphs & ML
+- Ma, Y., & Tang, J. (2021). Deep Learning on Graphs. Cambridge: Cambridge University Press. doi:10.1017/9781108924184
 
 ## Study materials
 - A Workshop on Graph Powered ML with presentation and tutorials: [Graph-Powered-ML](https://github.com/joerg84/Graph_Powered_ML_Workshop)
