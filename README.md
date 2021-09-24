@@ -12,7 +12,7 @@ In this list of we propose several resources which are helpful for ML/AI on grap
 | [2](#software-libraries) | Software Libraries | Libraries that integrate ML/AI with graphs |
 | [3](#graph-packages) | Graph packages | Pacakges used to create and visualize graphs |
 | [4](#books) | Books | Books on AI/ML for graphs |
-| [5](#study-materials) | Workshops/Tutorials/Courses | Learning material for graphss |
+| [5](#study-materials) | Workshops/Tutorials/Courses | Learning material for graphs |
 | [6](#others) | Others | Code bases, Datasets, Projects and few blog posts on GraphML |
 
 
