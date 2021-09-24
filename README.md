@@ -52,7 +52,7 @@ Machine learning(ML) a sub-group of Artifical Intelligence(AI) is widely used in
 - A simplified version of tensorflow for performing computation on graphs in a more transparent way [GraphAttack](https://github.com/jgolebiowski/graphAttack)
 - An AI-toolkit for graph analysis, ML and NLP [Grasp](https://github.com/textgain/grasp)
 
-### Graph packages
+## Graph packages
 - Python package for creating, manipulating, and studying complex networks' structure, dynamics, and functions: [NetworkX](https://networkx.github.io/)
 - Collection of network analysis with a focus on easy usabilitz, efficiency and portability: [igraph](https://igraph.org/)
 - Graph manipulation,speed of processing, supports visualization and based on Boost graph library: [graph-tool](https://graph-tool.skewed.de/)
@@ -65,6 +65,10 @@ Machine learning(ML) a sub-group of Artifical Intelligence(AI) is widely used in
 - Designing and Building Enterprise Knowledge Graphs (Synthesis Lectures on Data, Semantics, and Knowledge)
 - Connecting the Dots:Harness the Power of Graphs & ML
 
+## Workshops/Tutorials/Courses
+- A Workshop on Graph Powered ML with presentation and tutorials: [Graph-Powered-ML](https://github.com/joerg84/Graph_Powered_ML_Workshop)
+- Practical courses: [Learning-Networks-with-ML](https://github.com/Networks-Learning/mlss-2016)
+- A Workshop on graph learning [Snap Workshop](https://snap.stanford.edu/graphlearning-workshop/index.html)
 
 ## Others
 - List of GNNs available: [Awesome efficient GNN](https://github.com/chaitjo/awesome-efficient-gnn)
@@ -75,15 +79,10 @@ Machine learning(ML) a sub-group of Artifical Intelligence(AI) is widely used in
 - A library for open graph benchmarking [OGB](https://ogb.stanford.edu/)
 - A GNN challende [AI/ML for GNN](https://arxiv.org/pdf/2107.12433.pdf)
 
-## Workshops/Tutorials/Courses
-- A Workshop on Graph Powered ML with presentation and tutorials: [Graph-Powered-ML](https://github.com/joerg84/Graph_Powered_ML_Workshop)
-- Practical courses: [Learning-Networks-with-ML](https://github.com/Networks-Learning/mlss-2016)
-- A Workshop on graph learning [Snap Workshop](https://snap.stanford.edu/graphlearning-workshop/index.html)
-
-## Data generation
+### Data generation
 - Library: [Synthetic-Graph-Data-Generation-for-ML](https://github.com/Octavian-ai/synthetic-graph-data)
 
-## Graph datasets
+### Graph datasets
 - A list of open-source graph datasets [Graph-datasets](https://github.com/AntonsRuberts/graph_ml)
 - A list of datasets in GraphML[GraphML-datasets](https://github.com/yuehhua/GraphMLDatasets.jl)
 - Graph reasoning dataset [CLEVR-graph](https://github.com/davidsketchdeck/clevr-graph)
