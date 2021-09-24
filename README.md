@@ -1,6 +1,20 @@
 # Curated-list-of-resources-for-GraphML-AI
+![image](https://user-images.githubusercontent.com/42236363/134605006-f772e717-6e72-4ef7-98ce-cac8b01f342f.png)
+
 
 Machine learning(ML) a sub-group of Artifical Intelligence(AI) is widely used in solving a wide range of real-world problems. They use various forms of data to address them of which graph data is one of them. Neo4j is one of the database used to store this graph data, also it is easy to analyse by establising relationship(edges) between the data often denoted as nodes.
+
+
+In this list of we propose several resources which are helpful for ML/AI on graphs that contains several categories which are provided as below
+| Sno | Title | Description |
+| --- | -------|------------- |
+| [1](#research-articles) | Research Articles | Research publications in Journal, Conferences etc.,|
+| [2](#software-libraries) | Software Libraries | Libraries that integrate ML/AI with graphs |
+| [3](#graph-packages) | Graph packages | Pacakges used to create and visualize graphs |
+| [4](#books) | Books | Books on AI/ML for graphs |
+| [5](#study-materials) | Workshops/Tutorials/Courses | Learning material for graphss |
+| [6](#others) | Others | Code bases, Datasets, Projects and few blog posts on GraphML |
+
 
 ## Research articles
 - Survey: [A Comprehensive Survey on Graph Neural Networks (2019)](https://arxiv.org/pdf/1901.00596.pdf)
@@ -65,7 +79,7 @@ Machine learning(ML) a sub-group of Artifical Intelligence(AI) is widely used in
 - Designing and Building Enterprise Knowledge Graphs (Synthesis Lectures on Data, Semantics, and Knowledge)
 - Connecting the Dots:Harness the Power of Graphs & ML
 
-## Workshops/Tutorials/Courses
+## Study materials
 - A Workshop on Graph Powered ML with presentation and tutorials: [Graph-Powered-ML](https://github.com/joerg84/Graph_Powered_ML_Workshop)
 - Practical courses: [Learning-Networks-with-ML](https://github.com/Networks-Learning/mlss-2016)
 - A Workshop on graph learning [Snap Workshop](https://snap.stanford.edu/graphlearning-workshop/index.html)
