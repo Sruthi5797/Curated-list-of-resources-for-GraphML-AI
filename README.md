@@ -17,45 +17,55 @@ In this list of we propose resources which are helpful for ML/AI on graphs that 
 
 
 ## Research articles
-- Survey: [A Comprehensive Survey on Graph Neural Networks (2019)](https://arxiv.org/pdf/1901.00596.pdf)
-- Survey: [A Practical Guide to Graph Neural Networks (2020)](https://arxiv.org/pdf/2010.05234.pdf)
-- Survey: [Graph Neural Networks for Natural Language Processing: A Survey](https://arxiv.org/abs/2106.06090.pdf)
-- Fraud detection: [A systematic literature review of graph-based anomaly detection approaches (2020)](https://www.sciencedirect.com/science/article/pii/S0167923620300580)
+1. Survey
+- [A Comprehensive Survey on Graph Neural Networks (2019)](https://arxiv.org/pdf/1901.00596.pdf)
+- [A Practical Guide to Graph Neural Networks (2020)](https://arxiv.org/pdf/2010.05234.pdf)
+- [Graph Neural Networks for Natural Language Processing: A Survey](https://arxiv.org/abs/2106.06090.pdf)
+- [A systematic literature review of graph-based anomaly detection approaches (2020)](https://www.sciencedirect.com/science/article/pii/S0167923620300580)
+2. Data Preprocessing
+- Data Preprocessing [Local Augmentation for Graph Neural Networks](https://arxiv.org/abs/2109.03856)
+- Data Augmentation [FLAG: Adversarial Data Augmentation for Graph Neural Networks](https://arxiv.org/pdf/2010.09891.pdf)
+
+3. Architecture
 - Knowledge graphs: [A Comprehensive Introduction to Knowledge Graphs (2021)](https://arxiv.org/pdf/2003.02320.pdf)
 - K-associated graphs: [A nonparametric classification method based on K-associated graphs](https://sites.icmc.usp.br/alneu/papers/infoSciences2011.pdf)
-- Context Aware Security monitoring: [Machine learning on knowledge graphs for context-aware security monitoring](https://arxiv.org/pdf/2105.08741.pdf)
 - GCN for different datasets: [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907.pdf)
-- Recommandation system: [Graph Convolutional Neural Networks for Web-Scale Recommender Systems](https://arxiv.org/abs/1806.01973.pdf)
 - GATs for different datasets: [Graph Attention Networks](https://arxiv.org/abs/1710.10903.pdf)
-- Link prediction using VGAE: [Variational Graph Auto-Encoders](https://arxiv.org/abs/1611.07308.pdf)
-- Link prediction and Entity Classification using R-GCN [Modeling Relational Data with Graph Convolutional Networks](https://arxiv.org/pdf/1703.06103.pdf)
-- Link prediction using node2vec [node2vec: Scalable Feature Learning for Networks](https://arxiv.org/pdf/1607.00653.pdf)
-- Link prediction using DECAGON [Modeling polypharmacy side effects with graph convolutional networks](https://arxiv.org/pdf/1802.00543.pdf)
-- Drug discovery [HyperFoods: Machine intelligent mapping of cancer-beating molecules in foods](https://www.nature.com/articles/s41598-019-45349-y)
 - Graph LSTM [ Semantic Object Parsing with Graph LSTM](https://arxiv.org/pdf/1603.07063.pdf)
 - Graph ST-GCN [Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition](https://github.com/yysijie/st-gcn)
 - MPNN - can be used for other novel approaches [Neural Message Passing for Quantum Chemistry](https://arxiv.org/abs/1704.01212)
 - Learning CNN [Learning Convolutional Neural Networks for Graphs](https://arxiv.org/pdf/1605.05273.pdf)
 - GG-NN [GATED GRAPH SEQUENCE NEURAL NETWORKS](https://arxiv.org/pdf/1511.05493.pdf)
-- Fake detection [Fake News Detection on Social Media using Geometric Deep Learning](https://arxiv.org/abs/1902.06673)
-- Molecular finger printing [Convolutional Networks on Graphs for Learning Molecular Fingerprints](https://arxiv.org/abs/1509.09292)
 - Custom network [DEEP GRAPH INFOMAX](https://arxiv.org/abs/1809.10341)
 - Representation learning [Representation Learning on Graphs: Methods and Applications](https://arxiv.org/pdf/1709.05584.pdf)
-- Dynamic graphs [Software Engineering Event Modeling using Relative Time in Temporal Knowledge Graphs](https://arxiv.org/pdf/2007.01231.pdf)
-- Dynamic graphs [Temporal Graph Networks for Deep Learning on Dynamic Graphs](https://arxiv.org/pdf/2006.10637.pdf)
-- Dynamic graphs [Inductive Representation Learning on Temporal Graphs](https://arxiv.org/pdf/2002.07962.pdf)
 - GDL review on sparse structures [Geometric deep learning: going beyond Euclidean data](https://arxiv.org/abs/1611.08097)
 - Semi-supervised [Relating Graph Neural Networks to Structural Causal Models](https://arxiv.org/pdf/2109.04173.pdf)
-- Life-science application [DGL-LIFESCI: AN OPEN-SOURCE TOOLKIT FOR DEEP LEARNING ON GRAPHS IN LIFE SCIENCE](https://arxiv.org/pdf/2106.14232.pdf)
 - Graph explainability [Reimagining GNN Explanations with ideas from Tabular Data](https://arxiv.org/pdf/2106.12665.pdf)
 - NLS approach [Learning to Generate Scene Graph from Natural Language Supervision](https://arxiv.org/pdf/2109.02227.pdf)
 - MGNN for text summarization [Multiplex Graph Neural Network for Extractive Text Summarization](https://arxiv.org/pdf/2108.12870.pdf)
 - TabGNN for prediction [TabGNN: Multiplex Graph Neural Network for Tabular Data Prediction](https://arxiv.org/pdf/2108.09127.pdf)
 - AdaGNN for 4 datasets [AdaGNN: A multi-modal latent representation meta-learner for GNNs based on AdaBoosting](https://arxiv.org/pdf/2108.06452.pdf)
 - X-GGM for VQA tasks [X-GGM: Graph Generative Modeling for Out-of-Distribution Generalization in Visual Question Answering](https://arxiv.org/abs/2107.11576)
+
+4. Application - link prediction
+- Link prediction using VGAE: [Variational Graph Auto-Encoders](https://arxiv.org/abs/1611.07308.pdf)
+- Link prediction and Entity Classification using R-GCN [Modeling Relational Data with Graph Convolutional Networks](https://arxiv.org/pdf/1703.06103.pdf)
+- Link prediction using node2vec [node2vec: Scalable Feature Learning for Networks](https://arxiv.org/pdf/1607.00653.pdf)
+- Link prediction using DECAGON [Modeling polypharmacy side effects with graph convolutional networks](https://arxiv.org/pdf/1802.00543.pdf)
+
+5. Application - Others
+- Context Aware Security monitoring: [Machine learning on knowledge graphs for context-aware security monitoring](https://arxiv.org/pdf/2105.08741.pdf)
+- Recommandation system: [Graph Convolutional Neural Networks for Web-Scale Recommender Systems](https://arxiv.org/abs/1806.01973.pdf)
+- Fake detection [Fake News Detection on Social Media using Geometric Deep Learning](https://arxiv.org/abs/1902.06673)
+- Molecular finger printing [Convolutional Networks on Graphs for Learning Molecular Fingerprints](https://arxiv.org/abs/1509.09292)
+- Life-science application [DGL-LIFESCI: AN OPEN-SOURCE TOOLKIT FOR DEEP LEARNING ON GRAPHS IN LIFE SCIENCE](https://arxiv.org/pdf/2106.14232.pdf)
 - Graph based forecasting [A Study of Joint Graph Inference and Forecasting](https://arxiv.org/abs/2109.04979)
-- Data Preprocessing [Local Augmentation for Graph Neural Networks](https://arxiv.org/abs/2109.03856)
-- Data Augmentation [FLAG: Adversarial Data Augmentation for Graph Neural Networks](https://arxiv.org/pdf/2010.09891.pdf)
+- Drug discovery [HyperFoods: Machine intelligent mapping of cancer-beating molecules in foods](https://www.nature.com/articles/s41598-019-45349-y)
+
+6. Dynamic Grapgs
+- [Software Engineering Event Modeling using Relative Time in Temporal Knowledge Graphs](https://arxiv.org/pdf/2007.01231.pdf)
+- [Temporal Graph Networks for Deep Learning on Dynamic Graphs](https://arxiv.org/pdf/2006.10637.pdf)
+- [Inductive Representation Learning on Temporal Graphs](https://arxiv.org/pdf/2002.07962.pdf)
 
 ## Software libraries
 - Integrating ML with knowledge graphs: [Grakn KGLIB](https://github.com/vaticle/kglib)
