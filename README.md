@@ -17,16 +17,17 @@ In this list of we propose resources which are helpful for ML/AI on graphs that 
 
 
 ## Research articles
-1. Survey
+1. **Survey**
 - [A Comprehensive Survey on Graph Neural Networks (2019)](https://arxiv.org/pdf/1901.00596.pdf)
 - [A Practical Guide to Graph Neural Networks (2020)](https://arxiv.org/pdf/2010.05234.pdf)
 - [Graph Neural Networks for Natural Language Processing: A Survey](https://arxiv.org/abs/2106.06090.pdf)
 - [A systematic literature review of graph-based anomaly detection approaches (2020)](https://www.sciencedirect.com/science/article/pii/S0167923620300580)
-2. Data Preprocessing
+
+2. **Data Preprocessing**
 - Data Preprocessing [Local Augmentation for Graph Neural Networks](https://arxiv.org/abs/2109.03856)
 - Data Augmentation [FLAG: Adversarial Data Augmentation for Graph Neural Networks](https://arxiv.org/pdf/2010.09891.pdf)
 
-3. Architecture
+3. **Architecture**
 - Knowledge graphs: [A Comprehensive Introduction to Knowledge Graphs (2021)](https://arxiv.org/pdf/2003.02320.pdf)
 - K-associated graphs: [A nonparametric classification method based on K-associated graphs](https://sites.icmc.usp.br/alneu/papers/infoSciences2011.pdf)
 - GCN for different datasets: [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907.pdf)
@@ -47,13 +48,13 @@ In this list of we propose resources which are helpful for ML/AI on graphs that 
 - AdaGNN for 4 datasets [AdaGNN: A multi-modal latent representation meta-learner for GNNs based on AdaBoosting](https://arxiv.org/pdf/2108.06452.pdf)
 - X-GGM for VQA tasks [X-GGM: Graph Generative Modeling for Out-of-Distribution Generalization in Visual Question Answering](https://arxiv.org/abs/2107.11576)
 
-4. Application - link prediction
+4. **Application - link prediction**
 - Link prediction using VGAE: [Variational Graph Auto-Encoders](https://arxiv.org/abs/1611.07308.pdf)
 - Link prediction and Entity Classification using R-GCN [Modeling Relational Data with Graph Convolutional Networks](https://arxiv.org/pdf/1703.06103.pdf)
 - Link prediction using node2vec [node2vec: Scalable Feature Learning for Networks](https://arxiv.org/pdf/1607.00653.pdf)
 - Link prediction using DECAGON [Modeling polypharmacy side effects with graph convolutional networks](https://arxiv.org/pdf/1802.00543.pdf)
 
-5. Application - Others
+5. **Application - Others**
 - Context Aware Security monitoring: [Machine learning on knowledge graphs for context-aware security monitoring](https://arxiv.org/pdf/2105.08741.pdf)
 - Recommandation system: [Graph Convolutional Neural Networks for Web-Scale Recommender Systems](https://arxiv.org/abs/1806.01973.pdf)
 - Fake detection [Fake News Detection on Social Media using Geometric Deep Learning](https://arxiv.org/abs/1902.06673)
@@ -62,7 +63,7 @@ In this list of we propose resources which are helpful for ML/AI on graphs that 
 - Graph based forecasting [A Study of Joint Graph Inference and Forecasting](https://arxiv.org/abs/2109.04979)
 - Drug discovery [HyperFoods: Machine intelligent mapping of cancer-beating molecules in foods](https://www.nature.com/articles/s41598-019-45349-y)
 
-6. Dynamic Grapgs
+6. **Dynamic Graphs**
 - [Software Engineering Event Modeling using Relative Time in Temporal Knowledge Graphs](https://arxiv.org/pdf/2007.01231.pdf)
 - [Temporal Graph Networks for Deep Learning on Dynamic Graphs](https://arxiv.org/pdf/2006.10637.pdf)
 - [Inductive Representation Learning on Temporal Graphs](https://arxiv.org/pdf/2002.07962.pdf)
