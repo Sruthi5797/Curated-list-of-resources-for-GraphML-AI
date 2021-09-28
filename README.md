@@ -5,7 +5,7 @@
 Machine learning(ML) a sub-group of Artifical Intelligence(AI) is widely used in solving a wide range of real-world problems. They use various forms of data to address them of which graph data is one of them. Neo4j is one of the database used to store this graph data, also it is easy to analyse by establising relationship(edges) between the data often denoted as nodes.
 
 
-In this list of we propose several resources which are helpful for ML/AI on graphs that contains several categories which are provided as below
+In this list of we propose resources which are helpful for ML/AI on graphs that contains categories which are provided as below
 | Sno | Title | Description |
 | --- | -------|------------- |
 | [1](#research-articles) | Research Articles | Research publications in Journal, Conferences etc.,|
