@@ -55,6 +55,7 @@ In this list of we propose resources which are helpful for ML/AI on graphs that 
 - X-GGM for VQA tasks [X-GGM: Graph Generative Modeling for Out-of-Distribution Generalization in Visual Question Answering](https://arxiv.org/abs/2107.11576)
 - Graph based forecasting [A Study of Joint Graph Inference and Forecasting](https://arxiv.org/abs/2109.04979)
 - Data Preprocessing [Local Augmentation for Graph Neural Networks](https://arxiv.org/abs/2109.03856)
+- Data Augmentation [FLAG: Adversarial Data Augmentation for Graph Neural Networks](https://arxiv.org/pdf/2010.09891.pdf)
 
 ## Software libraries
 - Integrating ML with knowledge graphs: [Grakn KGLIB](https://github.com/vaticle/kglib)
@@ -104,7 +105,6 @@ In this list of we propose resources which are helpful for ML/AI on graphs that 
 
 ### Projects
 - Fraud Detection in BankSim dataset containing bank transactions [Fraud-Detection](https://github.com/aravind-sundaresan/Graph-ML-Fraud-Detection)
-
 
 
 <a name="myfootnote1">1</a>: Support for ML coming soon <br>
