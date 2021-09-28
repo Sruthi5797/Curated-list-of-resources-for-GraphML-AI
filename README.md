@@ -107,5 +107,5 @@ In this list of we propose resources which are helpful for ML/AI on graphs that 
 
 
 
-<a name="myfootnote1">1</a>: support for ML coming soon
+<a name="myfootnote1">1</a>: support for ML coming soon <br>
 <a name="myfootnote2">2</a>: Also available as a beta version in Neo4J for node embeddings: [Neo4jGraphSAGE](https://neo4j.com/docs/graph-data-science/current/algorithms/graph-sage/)
