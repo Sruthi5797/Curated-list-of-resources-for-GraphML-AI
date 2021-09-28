@@ -61,8 +61,7 @@ In this list of we propose resources which are helpful for ML/AI on graphs that 
 - An ultimate library for GNN: [PvG](https://www.pyg.org/)
 - Machine learning on graphs and networks: [StellarGraph](https://github.com/stellargraph/stellargraph)
 - A library to perform deep learning on graphs. Contains a wide range of tutorial to start from:[Deep-Graph-Library](https://www.dgl.ai/)
-- A framework for industive representation learning for large graphs: [GraphSAGE](http://snap.stanford.edu/graphsage/)
-* Also available as a beta version in Neo4J for node embeddings: [Neo4jGraphSAGE](https://neo4j.com/docs/graph-data-science/current/algorithms/graph-sage/)
+- A framework for industive representation learning for large graphs: [GraphSAGE](http://snap.stanford.edu/graphsage/) <sup>[2](#myfootnote2)</sup>
 - A simplified version of tensorflow for performing computation on graphs in a more transparent way [GraphAttack](https://github.com/jgolebiowski/graphAttack)
 - An AI-toolkit for graph analysis, ML and NLP [Grasp](https://github.com/textgain/grasp)
 
@@ -109,3 +108,4 @@ In this list of we propose resources which are helpful for ML/AI on graphs that 
 
 
 <a name="myfootnote1">1</a>: support for ML coming soon
+<a name="myfootnote2">2</a>: Also available as a beta version in Neo4J for node embeddings: [Neo4jGraphSAGE](https://neo4j.com/docs/graph-data-science/current/algorithms/graph-sage/)
