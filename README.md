@@ -121,31 +121,30 @@ In this list of we propose resources which are helpful for ML/AI on graphs that 
 - Curated list of databases [Github-link](https://github.com/jbmusso/awesome-graph)
 ### Projects
 - Fraud Detection in BankSim dataset containing bank transactions [Fraud-Detection](https://github.com/aravind-sundaresan/Graph-ML-Fraud-Detection)
-### Available graphDBs <sup>[src](#myfootnote3)</sup>
-* [AgensGraph](https://bitnine.net/agensgraph-2/) - multi-model graph database with SQL and Cypher support
-* [AnzoGraph](https://www.cambridgesemantics.com/anzograph/) - Massively parallel graph database with advanced analytics (SPARQL, Cypher, OWL/RDFS+, LPG) 
-* [Atomic-Server](https://crates.io/crates/atomic-server/) - open-source type-safe graph database server with GUI, written in rust. Supports [Atomic Data](docs.atomicdata.dev/), JSON & RDF.
-* [ArangoDB](https://www.arangodb.com/) - highly available Multi-Model NoSQL database
-* [Blazegraph](https://github.com/blazegraph/database) - GPU accelerated graph database
-* [Cayley](https://github.com/cayleygraph/cayley) - open source database written in Go
-* [CosmosDB](https://docs.microsoft.com/en-us/azure/cosmos-db/graph-introduction) - cloud-based multi-model database with support for TinkerPop3
-* [Dgraph](https://dgraph.io) - Fast, Transactional, Distributed Graph Database (open source, written in Go)
-* [DSE Graph](https://www.datastax.com/products/datastax-enterprise-graph) - Graph layer on top of DataStax Enterprise (Cassandra, SolR, Spark)
-* [Grafito](https://github.com/arturo-lang/grafito) - Portable, Serverless & Lightweight SQLite-based Graph Database in Arturo
-* [Grakn.AI](https://grakn.ai/) - a distributed hyper-relational database for knowledge-oriented systems, i.e. a distributed knowledge base
-* [Graphd](https://github.com/google/graphd) - the Metaweb/Freebase Graph Repository
-* [JanusGraph](http://janusgraph.org) - an open-source, distributed graph database with pluggable storage and indexing backends
-* [Memgraph](https://memgraph.com/) - High Performance, In-Memory, Transactional Graph Database
-* [Neo4j](http://tinkerpop.apache.org/docs/current/#neo4j-gremlin) - OLTP graph database
-* [Nebula Graph](http://nebula-graph.io/) - A distributed, fast open-source graph database featuring horizontal scalability and high availability
-* [RedisGraph](https://oss.redislabs.com/redisgraph/) - Property graph database, based on linear algebra constructs (GraphBLAS)
-* [Sparksee](http://www.sparsity-technologies.com/#sparksee) - makes space and performance compatible with a small footprint and a fast analysis of large networks
-* [Stardog](http://stardog.com/) - RDF graph database with OLTP and OLAP support
-* [OrientDB](http://orientdb.com/orientdb/) - Distributed Multi-Model NoSQL Database with a Graph Database Engine
-* [TerminusDB](https://github.com/terminusdb/terminusdb) is an open source graph database and document store. It is designed for collaboratively building data-intensive applications and knowledge graphs.
-* [TigerGraph](https://www.tigergraph.com/) - The First Native Parallel Graph capable of real-time analytics on web-scale data
-* [Weaviate](https://github.com/semi-technologies/weaviate) - Weaviate is a cloud-native, modular, real-time vector search engine with a graph data model (GraphQL interface) built to scale your machine learning models.
+### Available graphDBs <sup>[3](#myfootnote3)</sup>
+* A multi-model graph database with SQL and Cypher support [AgensGraph](https://bitnine.net/agensgraph-2/)
+* Massively parallel graph database with advanced analytics (SPARQL, Cypher, OWL/RDFS+, LPG) [AnzoGraph](https://www.cambridgesemantics.com/anzograph/) - 
+* Open-source type-safe graph database server with GUI, written in rust [Atomic-Server](https://crates.io/crates/atomic-server/) Supports [Atomic Data](docs.atomicdata.dev/), JSON & RDF.
+* Highly available Multi-Model NoSQL database [ArangoDB](https://www.arangodb.com/)
+* GPU accelerated graph database [Blazegraph](https://github.com/blazegraph/database)
+* Open source database written in Go [Cayley](https://github.com/cayleygraph/cayley)
+* Cloud-based multi-model database with support for TinkerPop3 [CosmosDB](https://docs.microsoft.com/en-us/azure/cosmos-db/graph-introduction)
+* Fast, Transactional, Distributed Graph Database (open source, written in Go) [Dgraph](https://dgraph.io)
+* Graph layer on top of DataStax Enterprise (Cassandra, SolR, Spark) [DSE Graph](https://www.datastax.com/products/datastax-enterprise-graph) - 
+* Portable, Serverless & Lightweight SQLite-based Graph Database in Arturo [Grafito](https://github.com/arturo-lang/grafito) - 
+* A distributed hyper-relational database for knowledge-oriented systems, i.e. a distributed knowledge base [Grakn.AI](https://grakn.ai/) - 
+* The Metaweb/Freebase Graph Repository [Graphd](https://github.com/google/graphd) - 
+* An open-source, distributed graph database with pluggable storage and indexing backends [JanusGraph](http://janusgraph.org) - 
+* High Performance, In-Memory, Transactional Graph Database [Memgraph](https://memgraph.com/) - 
+* A distributed, fast open-source graph database featuring horizontal scalability and high availability [Nebula Graph](http://nebula-graph.io/) - 
+* Property graph database, based on linear algebra constructs (GraphBLAS) [RedisGraph](https://oss.redislabs.com/redisgraph/) - 
+* Makes space and performance compatible with a small footprint and a fast analysis of large networks [Sparksee](http://www.sparsity-technologies.com/#sparksee) - 
+* RDF graph database with OLTP and OLAP support [Stardog](http://stardog.com/) - 
+* Distributed Multi-Model NoSQL Database with a Graph Database Engine [OrientDB](http://orientdb.com/orientdb/) - 
+* An open source graph database and document store. It is designed for collaboratively building data-intensive applications and knowledge graphs. [TerminusDB](https://github.com/terminusdb/terminusdb) 
+* The First Native Parallel Graph capable of real-time analytics on web-scale data [TigerGraph](https://www.tigergraph.com/) - 
+* Weaviate is a cloud-native, modular, real-time vector search engine with a graph data model (GraphQL interface) built to scale your machine learning models. [Weaviate](https://github.com/semi-technologies/weaviate) - 
 
 <a name="myfootnote1">1</a>: Support for ML coming soon <br>
-<a name="myfootnote3">src</a>: https://raw.githubusercontent.com/jbmusso/awesome-graph/<br>
 <a name="myfootnote2">2</a>: Also available as a beta version in Neo4J for node embeddings: [Neo4jGraphSAGE](https://neo4j.com/docs/graph-data-science/current/algorithms/graph-sage/)
+<a name="myfootnote3">3</a>: https://raw.githubusercontent.com/jbmusso/awesome-graph/<br>
