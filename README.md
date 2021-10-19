@@ -130,20 +130,20 @@ In this list of we propose resources which are helpful for ML/AI on graphs that 
 * Open source database written in Go [Cayley](https://github.com/cayleygraph/cayley)
 * Cloud-based multi-model database with support for TinkerPop3 [CosmosDB](https://docs.microsoft.com/en-us/azure/cosmos-db/graph-introduction)
 * Fast, Transactional, Distributed Graph Database (open source, written in Go) [Dgraph](https://dgraph.io)
-* Graph layer on top of DataStax Enterprise (Cassandra, SolR, Spark) [DSE Graph](https://www.datastax.com/products/datastax-enterprise-graph) - 
-* Portable, Serverless & Lightweight SQLite-based Graph Database in Arturo [Grafito](https://github.com/arturo-lang/grafito) - 
-* A distributed hyper-relational database for knowledge-oriented systems, i.e. a distributed knowledge base [Grakn.AI](https://grakn.ai/) - 
-* The Metaweb/Freebase Graph Repository [Graphd](https://github.com/google/graphd) - 
-* An open-source, distributed graph database with pluggable storage and indexing backends [JanusGraph](http://janusgraph.org) - 
-* High Performance, In-Memory, Transactional Graph Database [Memgraph](https://memgraph.com/) - 
-* A distributed, fast open-source graph database featuring horizontal scalability and high availability [Nebula Graph](http://nebula-graph.io/) - 
-* Property graph database, based on linear algebra constructs (GraphBLAS) [RedisGraph](https://oss.redislabs.com/redisgraph/) - 
-* Makes space and performance compatible with a small footprint and a fast analysis of large networks [Sparksee](http://www.sparsity-technologies.com/#sparksee) - 
-* RDF graph database with OLTP and OLAP support [Stardog](http://stardog.com/) - 
-* Distributed Multi-Model NoSQL Database with a Graph Database Engine [OrientDB](http://orientdb.com/orientdb/) - 
+* Graph layer on top of DataStax Enterprise (Cassandra, SolR, Spark) [DSE Graph](https://www.datastax.com/products/datastax-enterprise-graph)
+* Portable, Serverless & Lightweight SQLite-based Graph Database in Arturo [Grafito](https://github.com/arturo-lang/grafito)
+* A distributed hyper-relational database for knowledge-oriented systems, i.e. a distributed knowledge base [Grakn.AI](https://grakn.ai/) 
+* The Metaweb/Freebase Graph Repository [Graphd](https://github.com/google/graphd) 
+* An open-source, distributed graph database with pluggable storage and indexing backends [JanusGraph](http://janusgraph.org) 
+* High Performance, In-Memory, Transactional Graph Database [Memgraph](https://memgraph.com/) 
+* A distributed, fast open-source graph database featuring horizontal scalability and high availability [Nebula Graph](http://nebula-graph.io/) 
+* Property graph database, based on linear algebra constructs (GraphBLAS) [RedisGraph](https://oss.redislabs.com/redisgraph/)
+* Makes space and performance compatible with a small footprint and a fast analysis of large networks [Sparksee](http://www.sparsity-technologies.com/#sparksee)
+* RDF graph database with OLTP and OLAP support [Stardog](http://stardog.com/)
+* Distributed Multi-Model NoSQL Database with a Graph Database Engine [OrientDB](http://orientdb.com/orientdb/)
 * An open source graph database and document store. It is designed for collaboratively building data-intensive applications and knowledge graphs. [TerminusDB](https://github.com/terminusdb/terminusdb) 
-* The First Native Parallel Graph capable of real-time analytics on web-scale data [TigerGraph](https://www.tigergraph.com/) - 
-* Weaviate is a cloud-native, modular, real-time vector search engine with a graph data model (GraphQL interface) built to scale your machine learning models. [Weaviate](https://github.com/semi-technologies/weaviate) - 
+* The First Native Parallel Graph capable of real-time analytics on web-scale data [TigerGraph](https://www.tigergraph.com/)
+* Weaviate is a cloud-native, modular, real-time vector search engine with a graph data model (GraphQL interface) built to scale your machine learning models. [Weaviate](https://github.com/semi-technologies/weaviate)
 
 <a name="myfootnote1">1</a>: Support for ML coming soon <br>
 <a name="myfootnote2">2</a>: Also available as a beta version in Neo4J for node embeddings: [Neo4jGraphSAGE](https://neo4j.com/docs/graph-data-science/current/algorithms/graph-sage/)
