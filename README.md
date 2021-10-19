@@ -63,6 +63,11 @@ In this list of we propose resources which are helpful for ML/AI on graphs that 
 - Graph based forecasting [A Study of Joint Graph Inference and Forecasting](https://arxiv.org/abs/2109.04979)
 - Drug discovery [HyperFoods: Machine intelligent mapping of cancer-beating molecules in foods](https://www.nature.com/articles/s41598-019-45349-y)
 
+6. **Papers Relevant to systems engineering**
+- Cyber physical systems: [Graph-Based Digital Blueprint for Model Based Engineering of Complex Systems](https://www.omgsysml.org/Graphs_MBE_INCOSE_IS_Bajaj-et-al.pdf)
+- Model Based System Engineering: [Addressing Model-Based System Engineering Challenges with Knowledge Graphs](https://www.stardog.com/resources/addressing-model-based-system-engineering-challenges-with-knowledge-graphs/)
+- 
+
 6. **Dynamic Graphs**
 - [Software Engineering Event Modeling using Relative Time in Temporal Knowledge Graphs](https://arxiv.org/pdf/2007.01231.pdf)
 - [Temporal Graph Networks for Deep Learning on Dynamic Graphs](https://arxiv.org/pdf/2006.10637.pdf)
