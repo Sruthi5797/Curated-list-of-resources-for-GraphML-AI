@@ -62,16 +62,27 @@ In this list of we propose resources which are helpful for ML/AI on graphs that 
 - Life-science application [DGL-LIFESCI: AN OPEN-SOURCE TOOLKIT FOR DEEP LEARNING ON GRAPHS IN LIFE SCIENCE](https://arxiv.org/pdf/2106.14232.pdf)
 - Graph based forecasting [A Study of Joint Graph Inference and Forecasting](https://arxiv.org/abs/2109.04979)
 - Drug discovery [HyperFoods: Machine intelligent mapping of cancer-beating molecules in foods](https://www.nature.com/articles/s41598-019-45349-y)
+- Network classification/anomoly detection [DeepWalk: Online Learning of Social Representations](https://arxiv.org/abs/1403.6652)
+- Molecular fingerprinting [Convolutional Networks on Graphs for Learning Molecular Fingerprints](https://arxiv.org/abs/1509.09292)
+- Recommandation systems [Graph Convolutional Neural Networks for Web-Scale Recommender Systems](https://arxiv.org/abs/1806.01973)
+- Community detection [Supervised Community Detection with Line Graph Neural Networks](https://arxiv.org/abs/1705.08415)
+- Text generation [Text Generation from Knowledge Graphs with Graph Transformers](https://arxiv.org/abs/1904.02342)
 
 6. **Papers Relevant to systems engineering**
 - Cyber physical systems: [Graph-Based Digital Blueprint for Model Based Engineering of Complex Systems](https://www.omgsysml.org/Graphs_MBE_INCOSE_IS_Bajaj-et-al.pdf)
 - Model Based System Engineering: [Addressing Model-Based System Engineering Challenges with Knowledge Graphs](https://www.stardog.com/resources/addressing-model-based-system-engineering-challenges-with-knowledge-graphs/)
 - 
 
-6. **Dynamic Graphs**
+7. **Dynamic Graphs**
 - [Software Engineering Event Modeling using Relative Time in Temporal Knowledge Graphs](https://arxiv.org/pdf/2007.01231.pdf)
 - [Temporal Graph Networks for Deep Learning on Dynamic Graphs](https://arxiv.org/pdf/2006.10637.pdf)
 - [Inductive Representation Learning on Temporal Graphs](https://arxiv.org/pdf/2002.07962.pdf)
+
+8. Implementations
+- Insights to interpretability [GNNExplainer: Generating Explanations for Graph Neural Networks](https://arxiv.org/abs/1903.03894)
+- Rule based system [Embedding Entities and Relations for Learning and Inference in Knowledge Bases](https://arxiv.org/abs/1412.6575)
+- [Modeling Relational Data with Graph Convolutional Networks](https://arxiv.org/abs/1703.06103)
+- Framework: [Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting](https://arxiv.org/abs/1709.04875v4)
 
 ## Software libraries
 - Integrating ML with knowledge graphs: [Grakn KGLIB](https://github.com/vaticle/kglib)
