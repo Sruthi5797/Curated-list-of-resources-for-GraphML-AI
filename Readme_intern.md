@@ -9,7 +9,7 @@
 
 ## DDMS Reference
 **To Start the server**
-Download the latest artifact from [gitlab](https://gitlab-extern.itemis.de/airbus/ddms_ref/client/) and use the following command to start
+Download the latest artifact from [gitlab](https://gitlab-extern.itemis.de/airbus/ddms_ref/client/client/-/tree/%238--Conversion-_classes_to_functions) and use the following command to start
 ```javascript
 java -jar C:\Users\graf\Downloads\org.eclipse.emfcloud.modelserver.example-0.7.0-SNAPSHOT-standalone.jar
 ```
